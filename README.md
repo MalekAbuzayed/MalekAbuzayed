@@ -1,6 +1,6 @@
 # Hi, I'm Malik 
 
-I build web apps (Laravel + JS) and I'm learning more about backend, databases, and clean UI.
+I am software enginner with experience in building web apps using laravel framework, currently exploring backend software engineering at boot.dev.
 
 ## Featured Projects
 ### 1) Private Clinic
@@ -9,10 +9,6 @@ I build web apps (Laravel + JS) and I'm learning more about backend, databases, 
 - Repo: https://github.com/MalekAbuzayed/PrivateClinic
 
 ### 2) Asteroids
-- What it does
-- Tech: ...
-- Repo: ...
-### 3) Asteroids
 - a simple python game project that demonstrates OOP principles
 - Tech: Python, pygame, venv 
 - Repo: https://github.com/MalekAbuzayed/Asteroids
@@ -22,6 +18,6 @@ I build web apps (Laravel + JS) and I'm learning more about backend, databases, 
 - MySQL / PostgreSQL
 - Git & GitHub
 
-## 📫 Contact
+## Contact
 - Email: malekishtiwi3@gmail.com
 - LinkedIn: https://www.linkedin.com/in/malikishtaiwe/
