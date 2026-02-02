@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Malik 
 
-<!--
-**MalekAbuzayed/MalekAbuzayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build web apps (Laravel + JS) and I'm learning more about backend, databases, and clean UI.
 
-Here are some ideas to get you started:
+## Featured Projects
+### 1) Private Clinic
+- a clinic system with a dashboard system that handles appointments.
+- Tech: Laravel, MySQL, JS, Bootstrap
+- Repo: https://github.com/MalekAbuzayed/PrivateClinic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 2) Asteroids
+- What it does
+- Tech: ...
+- Repo: ...
+### 3) Asteroids
+- a simple python game project that demonstrates OOP principles
+- Tech: Python, pygame, venv 
+- Repo: https://github.com/MalekAbuzayed/Asteroids
+
+## Tech I Use
+- PHP, Laravel, Python, Linux, Bash, HTML, CSS, JavaScript
+- MySQL / PostgreSQL
+- Git & GitHub
+
+## 📫 Contact
+- Email: malekishtiwi3@gmail.com
+- LinkedIn: https://www.linkedin.com/in/malikishtaiwe/
