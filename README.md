@@ -1,6 +1,6 @@
 # Hi, I'm Malik 
 
-I am software enginner with experience in building web apps using laravel framework, currently exploring backend software engineering at boot.dev.
+Although a computer guy, I have a life outside my terminal and away from my keyboard :)
 
 ## Featured Projects
 ### 1) Private Clinic
